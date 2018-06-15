@@ -5,7 +5,7 @@
  
 This script was found in the Move to Islandora Kit (MIK) repo where it is included as an extra script. We use it to run a final check on our metadata before ingest. This script references a local copy of the MODS 3.5 schema, make sure that they are stored in the same folder. Command structure is:
  
- $php path/to/validate_mods_xml.php path-to-folder-to-run-script-against
+ '''$php path/to/validate_mods_xml.php path-to-folder-to-run-script-against'''
  
  2a_islandora_batch_import_setup.sh
  
