@@ -3,6 +3,8 @@
  
  1_validate_mods_xml.php
  
- Included as an extra script in the Move to Islandora Kit (MIK)
+ This script was found in the Move to Islandora Kit (MIK) repo where it is included as an extra script.
+ 
+ 
  
  
